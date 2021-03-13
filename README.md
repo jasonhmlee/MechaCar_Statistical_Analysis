@@ -15,6 +15,9 @@ The purpose of this challenge was to look into the data for MechaCar using R to 
 ## Summary Statistics on Suspension Coils
 -The suspension coil csv was converted into a datafrom and was seperated into two subset tables: total summary, lot summary. 
 
+![Screen Shot 2021-03-12 at 10 44 04 PM](https://user-images.githubusercontent.com/74155420/111021929-76622f80-8384-11eb-8f77-2ff5c5380962.png)
+
+
 ## T-Test on Suspension Coils
 All p value = 0.06028
 Lot 1 p value = 1
@@ -22,5 +25,7 @@ Lot 2 p value = 0.6072
 Lot 3 p value = 0.04168
 
 From the results above we can see only lot 3 has a p value below 0.05. We can conclude that lot 3 is under performing
+![Screen Shot 2021-03-12 at 10 44 36 PM](https://user-images.githubusercontent.com/74155420/111021938-8974ff80-8384-11eb-9c3d-5dac9d31f387.png)
+
 
 ## Study Design: MechaCar vs Competition
