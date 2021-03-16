@@ -29,3 +29,4 @@ From the results above we can see only lot 3 has a p value below 0.05. We can co
 
 
 ## Study Design: MechaCar vs Competition
+Miles per gallon is a very important metrics to capture to compare and contrast the data from MechaCar and its competitors. We will use this data to see whether there is a big difference in the miles per gallon with the other cars. The null hypothesis is that the MechaCar's fuel efficiency is the same as that of its competitors. A one sample t test would be the best option because this is a prototype. We would have to compare the fuel efficiency mean from the MechCar data. The data needed to run this statistical test would be the miles per gallon per each car. This data will then be compared to the other cars as well.
